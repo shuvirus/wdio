@@ -1,1 +1,1 @@
-# wdio Repository for Javascript based WDIO framework 
+# Repository for Javascript based WDIO framework 
